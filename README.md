@@ -1,5 +1,6 @@
 # DesafioTricentis
-# Desafio automação de testes com Selenium, cucumber e page object. 
+# Desafio automação de testes com Selenium, cucumber e page object.
+# Na aplicação da Tricentis
 
 Cumpri o desafio com três ferramentas diferentes:
 1. Selenium webdriver (JAVA), cucumber e page object.
