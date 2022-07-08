@@ -7,5 +7,6 @@ Cumpri o desafio com três ferramentas diferentes:
 2. Robot framework com a library do Selenium.
 3. Sikuli.
 
+Site testado: http://sampleapp.tricentis.com/101/app.php
 
 Vídeo no youtube, rodando todos os respectivos testes? 
