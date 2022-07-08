@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="17.877">
+    <testcase classname="Feature to test insurance registration" name="Check the successful sending of the insurance email with valid data" time="17.687">
+        <system-out><![CDATA[Given the user opens the trincentis website.................................passed
+When he fills in the form on the “Enter Vehicle Data” tab and press next....passed
+And he fills in the form on the “Enter Insurant Data” tab and press next....passed
+And he fills in the form on the “Enter Product Data” tab and press next.....passed
+And he fills in the form on the “Select Price Option” tab and press next....passed
+And he fills in the form on the “Send Quote” tab and press send.............passed
+Then he checks the message “Sending email successfully!” on the screen......passed
+]]></system-out>
+    </testcase>
+</testsuite>
