@@ -9,4 +9,4 @@ Cumpri o desafio com três ferramentas diferentes:
 
 Site testado: http://sampleapp.tricentis.com/101/app.php
 
-Vídeo no youtube, rodando todos os respectivos testes? 
+Vídeo no youtube, rodando os respectivos testes: https://youtu.be/FBc2WOZjGGo
